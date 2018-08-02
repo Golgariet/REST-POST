@@ -14,8 +14,5 @@ REST methodology/ POST
 I need to get smth like:
 
 {
-
-		"Status": {
-						"Code": 1	
-						}
+"Status": {"Code": 1	}
 }
